@@ -15,3 +15,5 @@ Thanks for visiting my profile. I am currently a bachelor's student in the field
 - 🤔 I’m looking for help with connecting teammates interested in more research on these topics.
 - 💬 Ask me about anything.
 - 📫 Reach out to me at: shubhamravani67890@gmail.com
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=ShubhamRavani)
