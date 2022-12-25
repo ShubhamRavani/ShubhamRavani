@@ -12,8 +12,8 @@ Thanks for visiting my profile. I have completed my graduation in Bachelor of Te
 - 🔭 I’m searching for a Job.
 - 🌱 I’m currently learning in-depth about Node.js, Express.js, React.js, Vue.js and MongoDB.
 - 👯 I’m looking to collaborate on any projects which are cool.
-- 🤔 I’m looking for help with connecting teammates interested in more research on these topics.
 - 💬 Ask me about anything.
 - 📫 Reach out to me at: shubhamravani67890@gmail.com
+
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ShubhamRavani)
