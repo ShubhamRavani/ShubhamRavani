@@ -1,8 +1,7 @@
 
 # Hello! 👋
 
-
-![Shubham's github stats](https://github-readme-stats.vercel.app/api?username=ShubhamRavani&show_icons=true&theme=radical)
+I have good problem solving skills, but my problem creating skills are where I really shine.
 
 
 - 📫 Reach out to me at: shubhamravani67890@gmail.com
